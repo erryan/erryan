@@ -48,4 +48,6 @@ I build full-stack side projects in Python and TypeScript, like kantix, and appl
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=erryan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erryan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" /> <img src="https://streak-stats.demolab.com?user=erryan&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </div>
 📫 Contact
-<div align="center"> https://www.linkedin.com/in/erhan-akk%C3%B6k-37507470 <!-- <a href="https://www.linkedin.com/in/erhan-akk%C3%B6k-37507470"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> --> </div>
+<div align="center">
+<a href="https://www.linkedin.com/in/erhan-akk%C3%B6k-37507470"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
